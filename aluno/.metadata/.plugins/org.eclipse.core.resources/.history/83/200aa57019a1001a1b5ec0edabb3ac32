@@ -67,7 +67,7 @@ public class TopicosController {
 	//Atualizar
 	@PutMapping("/{id}")
 	@Transactional
-	public ResponseEntity<TopicoDto> atualizar(@PathVariable Long id, @RequestBody @Valid AtualizarTopicoForm form){
+	public ResponseEntity<TopicoDto> atualizar(@PathVariable Long id, @Valid AtualizarTopicoForm form){
 		Topico topico = form.atualizar(id, topicoRepository);
 		return ResponseEntity.ok(new TopicoDto(topico));
 	}

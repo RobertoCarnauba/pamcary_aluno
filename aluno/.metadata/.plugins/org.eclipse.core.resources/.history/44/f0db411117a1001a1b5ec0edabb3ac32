@@ -1,0 +1,15 @@
+package com.pamcary.aluno.controller.dto;
+
+import com.pamcary.aluno.model.Topico;
+import com.pamcary.aluno.repository.TopicoRepository;
+
+public class AtualizarTopicoForm {
+
+	public Topico atualizar(Long id, TopicoRepository topicoRepository) {
+		
+		private String titulo;
+		private String mensagem;
+		return null;
+	}
+
+}
