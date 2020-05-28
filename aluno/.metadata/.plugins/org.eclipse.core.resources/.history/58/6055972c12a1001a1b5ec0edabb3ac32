@@ -1,0 +1,18 @@
+package com.pamcary.aluno.controller.dto;
+
+import java.time.LocalDateTime;
+import java.util.List;
+
+import com.pamcary.aluno.model.StatusTopico;
+
+public class DetalhesDoTopicoDto {
+
+	private Long id;
+	private String titulo;
+	private String messagem;
+	private LocalDateTime dataCriacao;
+	private String nomeAutor;
+	private StatusTopico status;
+	private List<RespostaDto> resposta;
+	
+}

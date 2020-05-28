@@ -15,7 +15,6 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.util.UriComponentsBuilder;
 
-import com.pamcary.aluno.controller.dto.DetalhesDoTopicoDto;
 import com.pamcary.aluno.controller.dto.TopicoDto;
 import com.pamcary.aluno.controller.form.TopicoForm;
 import com.pamcary.aluno.model.Topico;
@@ -53,11 +52,12 @@ public class TopicosController {
 		URI uri =  uriBuilder.path("/topicos/{id}").buildAndExpand(topico.getId()).toUri();
 		return ResponseEntity.created(uri).body(new TopicoDto(topico));
 	}
-	//Detalhe
+	
 	@GetMapping("/{id}")
-	public DetalhesDoTopicoDto detalahar(@PathVariable Long id){
-		Topico topico = topicoRepository.getOne(id);
-		return new DetalhesDoTopicoDto(topico);
+	public TopicoDto detalahar(@PathVariable id){
+		
+		
+		return null;
 		
 	}
 }
