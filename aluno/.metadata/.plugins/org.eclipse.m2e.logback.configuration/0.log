@@ -3846,3 +3846,118 @@ java.io.FileNotFoundException: C:\Users\betoc\Documents\java-alura\Java\pamcary_
 2020-05-28 17:42:00,747 [Worker-194] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
 2020-05-28 17:42:00,750 [Worker-194] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-05-28 17:42:00,750 [Worker-194] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\betoc\Documents\java-alura\Java\pamcary_aluno\aluno\aluno\src\test\resources
+2020-05-28 17:51:24,394 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-28 17:51:24,395 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-28 17:51:24,399 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-28 17:51:24,401 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-28 17:51:24,402 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\betoc\Documents\java-alura\Java\pamcary_aluno\aluno\aluno\src\test\resources
+2020-05-28 17:56:16,530 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-28 17:56:16,532 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-28 17:56:16,537 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-28 17:56:16,538 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-28 17:56:16,539 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\betoc\Documents\java-alura\Java\pamcary_aluno\aluno\aluno\src\test\resources
+2020-05-28 17:58:08,094 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-28 17:58:08,096 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-28 17:58:08,111 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-28 17:58:08,114 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-28 17:58:08,115 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\betoc\Documents\java-alura\Java\pamcary_aluno\aluno\aluno\src\test\resources
+2020-05-28 17:58:11,022 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-28 17:58:11,024 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-28 17:58:11,028 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-28 17:58:11,030 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-28 17:58:11,030 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\betoc\Documents\java-alura\Java\pamcary_aluno\aluno\aluno\src\test\resources
+2020-05-28 17:59:18,097 [Worker-208] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-28 17:59:18,099 [Worker-208] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-28 17:59:18,103 [Worker-208] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-28 17:59:18,105 [Worker-208] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-28 17:59:18,105 [Worker-208] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\betoc\Documents\java-alura\Java\pamcary_aluno\aluno\aluno\src\test\resources
+2020-05-28 18:01:06,236 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-28 18:01:06,237 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-28 18:01:06,240 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-28 18:01:06,242 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-28 18:01:06,242 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\betoc\Documents\java-alura\Java\pamcary_aluno\aluno\aluno\src\test\resources
+2020-05-28 18:01:34,342 [Worker-203] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-28 18:01:34,345 [Worker-203] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-28 18:01:34,352 [Worker-203] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-28 18:01:34,354 [Worker-203] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-28 18:01:34,354 [Worker-203] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\betoc\Documents\java-alura\Java\pamcary_aluno\aluno\aluno\src\test\resources
+2020-05-28 18:02:23,070 [Worker-201] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-28 18:02:23,071 [Worker-201] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-28 18:02:23,075 [Worker-201] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-28 18:02:23,077 [Worker-201] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-28 18:02:23,077 [Worker-201] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\betoc\Documents\java-alura\Java\pamcary_aluno\aluno\aluno\src\test\resources
+2020-05-28 18:02:42,813 [Worker-203] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-28 18:02:42,814 [Worker-203] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-28 18:02:42,818 [Worker-203] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-28 18:02:42,819 [Worker-203] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-28 18:02:42,820 [Worker-203] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\betoc\Documents\java-alura\Java\pamcary_aluno\aluno\aluno\src\test\resources
+2020-05-28 18:03:59,721 [Worker-205] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-28 18:03:59,723 [Worker-205] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-28 18:03:59,729 [Worker-205] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-28 18:03:59,732 [Worker-205] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-28 18:03:59,732 [Worker-205] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\betoc\Documents\java-alura\Java\pamcary_aluno\aluno\aluno\src\test\resources
+2020-05-28 18:05:26,269 [Worker-203] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-28 18:05:26,270 [Worker-203] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-28 18:05:26,274 [Worker-203] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-28 18:05:26,275 [Worker-203] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-28 18:05:26,276 [Worker-203] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\betoc\Documents\java-alura\Java\pamcary_aluno\aluno\aluno\src\test\resources
+2020-05-28 18:08:04,596 [Worker-207] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-28 18:08:04,598 [Worker-207] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-28 18:08:04,601 [Worker-207] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-28 18:08:04,602 [Worker-207] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-28 18:08:04,602 [Worker-207] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\betoc\Documents\java-alura\Java\pamcary_aluno\aluno\aluno\src\test\resources
+2020-05-28 18:08:10,417 [Worker-205] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-28 18:08:10,418 [Worker-205] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-28 18:08:10,422 [Worker-205] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-28 18:08:10,424 [Worker-205] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-28 18:08:10,424 [Worker-205] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\betoc\Documents\java-alura\Java\pamcary_aluno\aluno\aluno\src\test\resources
+2020-05-28 18:08:38,130 [Worker-201] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-28 18:08:38,131 [Worker-201] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-28 18:08:38,135 [Worker-201] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-28 18:08:38,137 [Worker-201] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-28 18:08:38,138 [Worker-201] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\betoc\Documents\java-alura\Java\pamcary_aluno\aluno\aluno\src\test\resources
+2020-05-28 18:13:08,638 [Worker-210] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-28 18:13:08,640 [Worker-210] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-28 18:13:08,648 [Worker-210] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-28 18:13:08,651 [Worker-210] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-28 18:13:08,652 [Worker-210] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\betoc\Documents\java-alura\Java\pamcary_aluno\aluno\aluno\src\test\resources
+2020-05-28 18:14:35,296 [Worker-213] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-28 18:14:35,297 [Worker-213] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-28 18:14:35,302 [Worker-213] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-28 18:14:35,304 [Worker-213] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-28 18:14:35,305 [Worker-213] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\betoc\Documents\java-alura\Java\pamcary_aluno\aluno\aluno\src\test\resources
+2020-05-28 18:16:48,895 [Worker-210] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-28 18:16:48,896 [Worker-210] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-28 18:16:48,900 [Worker-210] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-28 18:16:48,901 [Worker-210] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-28 18:16:48,901 [Worker-210] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\betoc\Documents\java-alura\Java\pamcary_aluno\aluno\aluno\src\test\resources
+2020-05-28 18:16:57,067 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-28 18:16:57,069 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-28 18:16:57,072 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-28 18:16:57,074 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-28 18:16:57,074 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\betoc\Documents\java-alura\Java\pamcary_aluno\aluno\aluno\src\test\resources
+2020-05-28 18:17:12,197 [Worker-214] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-28 18:17:12,198 [Worker-214] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-28 18:17:12,202 [Worker-214] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-28 18:17:12,204 [Worker-214] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-28 18:17:12,204 [Worker-214] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\betoc\Documents\java-alura\Java\pamcary_aluno\aluno\aluno\src\test\resources
+2020-05-28 18:21:29,826 [Worker-217] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-28 18:21:29,828 [Worker-217] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-28 18:21:29,831 [Worker-217] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-28 18:21:29,833 [Worker-217] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-28 18:21:29,833 [Worker-217] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\betoc\Documents\java-alura\Java\pamcary_aluno\aluno\aluno\src\test\resources
+2020-05-28 18:21:52,916 [Worker-218] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-28 18:21:52,917 [Worker-218] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-28 18:21:52,921 [Worker-218] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-28 18:21:52,923 [Worker-218] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-28 18:21:52,923 [Worker-218] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\betoc\Documents\java-alura\Java\pamcary_aluno\aluno\aluno\src\test\resources
+2020-05-28 18:22:00,862 [Worker-217] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-28 18:22:00,863 [Worker-217] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-28 18:22:00,867 [Worker-217] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-28 18:22:00,869 [Worker-217] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-28 18:22:00,870 [Worker-217] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\betoc\Documents\java-alura\Java\pamcary_aluno\aluno\aluno\src\test\resources
+2020-05-28 18:27:51,006 [Worker-222] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-28 18:27:51,007 [Worker-222] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-28 18:27:51,010 [Worker-222] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-28 18:27:51,012 [Worker-222] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-28 18:27:51,013 [Worker-222] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\betoc\Documents\java-alura\Java\pamcary_aluno\aluno\aluno\src\test\resources

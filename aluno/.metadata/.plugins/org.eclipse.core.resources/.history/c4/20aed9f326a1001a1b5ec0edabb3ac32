@@ -1,0 +1,13 @@
+package com.pamcary.aluno.controller.dto;
+
+import com.pamcary.aluno.model.Usuario;
+import com.pamcary.aluno.repository.AlunoRepository;
+
+public class AtualizarAlunoForm {
+
+	public Usuario atualizar(Long id, AlunoRepository alunoRepository) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

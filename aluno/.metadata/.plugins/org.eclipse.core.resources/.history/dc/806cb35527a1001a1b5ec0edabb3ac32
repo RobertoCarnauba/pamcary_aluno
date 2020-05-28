@@ -28,6 +28,7 @@ public class AtualizarTopicoForm {
 	}
 	
 	public Topico atualizar(Long id, TopicoRepository topicoRepository) {
+		System.out.println("Chegamosa qui");
 		Topico topico = topicoRepository.getOne(id);
 		topico.setTitulo(titulo);
 		topico.setMensagem(mensagem);

@@ -1,0 +1,5 @@
+package com.pamcary.aluno.controller.dto;
+
+public class AtualizarAlunoForm {
+
+}
