@@ -1,0 +1,26 @@
+package com.pamcary.aluno.controller;
+
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.pamcary.aluno.controller.dto.TopicoDto;
+import com.pamcary.aluno.model.Topico;
+import com.pamcary.aluno.repository.TopicoRepository;
+
+@RestController
+public class TopicosController {
+	
+	@Autowired
+	private TopicoRepository topicoRepository;
+
+	@RequestMapping("/topicos")
+	public List<TopicoDto> lista(){
+
+		List<Topico> topico = topicoRepository.findAll();
+		return TopicoDto.converter(topico);
+		
+	}
+}

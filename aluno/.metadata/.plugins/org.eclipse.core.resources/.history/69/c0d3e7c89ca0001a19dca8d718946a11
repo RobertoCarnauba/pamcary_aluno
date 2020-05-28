@@ -1,0 +1,23 @@
+package com.pamcary.aluno.controller.dto;
+
+import java.util.List;
+
+import com.pamcary.aluno.model.Usuario;
+
+public class AlunoDto {
+	
+	public AlunoDto(Usuario usuario){
+		
+	}
+
+	public static List<Usuario> converter(List<Usuario> aluno) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	public static List<Usuario> converter(String nome) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

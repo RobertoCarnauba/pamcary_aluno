@@ -1,0 +1,10 @@
+package com.pamcary.aluno.controller.dto;
+
+public class AlunoDto {
+	
+
+	private Long id;
+	private String nome;
+	private int idade;
+
+}

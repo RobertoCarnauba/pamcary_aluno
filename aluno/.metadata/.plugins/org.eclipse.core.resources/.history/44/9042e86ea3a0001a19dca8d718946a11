@@ -1,0 +1,32 @@
+package com.pamcary.aluno.controller;
+
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.pamcary.aluno.controller.dto.AlunoDto;
+import com.pamcary.aluno.model.Usuario;
+import com.pamcary.aluno.repository.AlunoRepository;
+
+@RestController
+@RequestMapping("/alunos")
+public class UsuarioController {
+	
+	@Autowired
+	private AlunoRepository alunoRepository;
+	
+	@GetMapping
+	public List<AlunoDto> lista(Long id){
+		if(id == null){
+			List<Usuario> usuarios = alunoRepository.findAll();
+			return AlunoDto.converter(usuarios);
+		} else {
+			List<Usuario> usuarios = alunoRepository.findAllById(id);
+			return AlunoDto.converter(usuarios);
+		}
+	}
+	
+}

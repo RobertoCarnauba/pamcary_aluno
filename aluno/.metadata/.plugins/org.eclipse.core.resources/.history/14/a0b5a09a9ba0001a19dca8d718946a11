@@ -1,0 +1,11 @@
+package com.pamcary.aluno.repository;
+
+import java.util.List;
+
+import com.pamcary.aluno.model.Usuario;
+
+public interface AlunoRepository {
+
+	List<Usuario> findAll();
+
+}

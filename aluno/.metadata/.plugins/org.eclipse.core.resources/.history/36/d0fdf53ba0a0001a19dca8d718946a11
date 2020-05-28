@@ -1,0 +1,13 @@
+package com.pamcary.aluno.controller.dto;
+
+import com.pamcary.aluno.model.Usuario;
+
+public class AlunoDto {
+	
+	public AlunoDto(Usuario usuario){
+		private Long id;
+		private String nome;
+	}
+
+
+}

@@ -1,0 +1,8 @@
+package com.pamcary.aluno.controller.form;
+
+public class TopicoForm {
+
+	private String titulo;
+	private String mensagem;
+	
+}

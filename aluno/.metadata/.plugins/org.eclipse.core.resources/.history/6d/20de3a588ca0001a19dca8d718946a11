@@ -1,0 +1,5 @@
+package com.pamcary.aluno.controller.repos;
+
+public interface CursoRepository {
+
+}

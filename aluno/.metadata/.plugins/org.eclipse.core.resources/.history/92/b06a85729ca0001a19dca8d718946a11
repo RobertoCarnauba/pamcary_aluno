@@ -1,0 +1,18 @@
+package com.pamcary.aluno.repository;
+
+import java.util.List;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import com.pamcary.aluno.model.Topico;
+import com.pamcary.aluno.model.Usuario;
+
+public interface AlunoRepository  extends JpaRepository<Topico, Long> {
+
+	List<Topico> findAll();
+
+	static List<Usuario> findByCursoNome(String nome) {
+		return null;
+	}
+
+}

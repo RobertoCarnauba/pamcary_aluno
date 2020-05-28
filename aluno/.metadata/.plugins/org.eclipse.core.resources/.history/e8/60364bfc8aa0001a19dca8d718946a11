@@ -1,0 +1,5 @@
+package com.pamcary.aluno.controller.form;
+
+public class TopicoForm {
+
+}

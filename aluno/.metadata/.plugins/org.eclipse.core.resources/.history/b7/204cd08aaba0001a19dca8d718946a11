@@ -1,0 +1,5 @@
+package com.pamcary.aluno.handler;
+
+public class ErroValidacaoHandler {
+
+}

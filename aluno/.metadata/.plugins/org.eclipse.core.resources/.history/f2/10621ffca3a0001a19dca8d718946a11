@@ -1,0 +1,53 @@
+package com.pamcary.aluno.controller;
+
+import java.net.URI;
+import java.util.List;
+
+import javax.validation.Valid;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.util.UriComponentsBuilder;
+
+import com.pamcary.aluno.controller.dto.AlunoDto;
+import com.pamcary.aluno.controller.dto.TopicoDto;
+import com.pamcary.aluno.controller.form.TopicoForm;
+import com.pamcary.aluno.model.Topico;
+import com.pamcary.aluno.model.Usuario;
+import com.pamcary.aluno.repository.AlunoRepository;
+
+@RestController
+@RequestMapping("/alunos")
+public class UsuarioController {
+	
+	@Autowired
+	private AlunoRepository alunoRepository;
+	
+	@GetMapping
+	public List<AlunoDto> lista(Long id){
+		if(id == null){
+			//Recuperar todos os alunos
+			List<Usuario> usuarios = alunoRepository.findAll();
+			return AlunoDto.converter(usuarios);
+		} else {
+			//Recuperar um aluno por id 
+			List<Usuario> usuarios = alunoRepository.findAllById(id);
+			return AlunoDto.converter(usuarios);
+		}
+	}
+	
+	@PostMapping
+	public ResponseEntity<TopicoDto> cadastrar(@RequestBody @Valid AlunoForm form, UriComponentsBuilder uriBuilder){
+		Topico topico = form.converter(alunoRepository);
+		alunoRepository.save(topico);
+		
+		URI uri =  uriBuilder.path("/topicos/{id}").buildAndExpand(topico.getId()).toUri();
+		return ResponseEntity.created(uri).body(new TopicoDto(topico));
+	}
+	
+}

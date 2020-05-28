@@ -1,0 +1,1 @@
+insert into USUARIO(nome,idade,email,senha) values('Aluno', 31, 'teste@pamcary.com','123');

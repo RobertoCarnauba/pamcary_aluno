@@ -1,0 +1,12 @@
+package com.pamcary.aluno.repository;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import com.pamcary.aluno.model.Curso;
+import com.pamcary.aluno.model.Topico;
+
+public interface CursoRepository extends JpaRepository<Topico, Long> {
+
+	Curso findByNome(String nome);
+
+}

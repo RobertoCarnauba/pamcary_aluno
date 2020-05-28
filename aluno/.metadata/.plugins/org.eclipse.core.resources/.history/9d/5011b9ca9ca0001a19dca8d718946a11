@@ -1,0 +1,15 @@
+package com.pamcary.aluno.controller.dto;
+
+import java.util.List;
+
+import com.pamcary.aluno.model.Topico;
+import com.pamcary.aluno.model.Usuario;
+
+public class AlunoDto {
+	
+	public AlunoDto(Usuario usuario){
+		
+	}
+
+
+}

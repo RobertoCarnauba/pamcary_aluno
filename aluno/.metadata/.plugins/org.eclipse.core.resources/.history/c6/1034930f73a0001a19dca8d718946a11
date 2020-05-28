@@ -1,0 +1,24 @@
+package com.pamcary.aluno.controller.dto;
+
+import java.time.LocalDateTime;
+
+public class TopicoDto {
+
+	private Long id;
+	private String titulo;
+	private String messagem;
+	private LocalDateTime dataCriacao;
+	
+	public Long getId() {
+		return id;
+	}
+	public String getTitulo() {
+		return titulo;
+	}
+	public String getMessagem() {
+		return messagem;
+	}
+	public LocalDateTime getDataCriacao() {
+		return dataCriacao;
+	}
+}

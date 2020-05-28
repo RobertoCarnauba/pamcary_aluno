@@ -1,0 +1,6 @@
+insert into USUARIO(nome,idade,email,senha) values('Aluno', 31, 'teste@pamcary.com','123');
+
+insert into CURSO(nome, categoria) values ('Spring Boot','Programação');
+insert into CURSO(nome, categoria) values ('Spring Security','Programação');
+
+insert into TOPICO(titulo,mensagem,dataCriacao,status,autor_id, curso_id) values (27-05-05,'Erro aqui',27-05-05,'NAO_RESPONDIDO','Dúvida',1, 1);
